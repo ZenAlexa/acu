@@ -483,7 +483,10 @@ A curated list of resources about AI agents for Computer Use, including research
 - [Upsonic](https://github.com/upsonic/upsonic)  
   - Reliable agent framework that support MCP 
   - Integrated Browser Use and Computer Use
- 
+
+- [Uni-CLI](https://github.com/olo-dot-io/Uni-CLI)
+  - Universal CLI hub connecting agents to 134 sites, desktop apps, and browser automation via 711 declarative YAML pipelines
+  - Stagehand-style `operate observe` verb, raw CDP (no extension), production MCP gateway, Karpathy-style self-repair loop, ~80 tokens per call
 
 <br/>
 </details>
