@@ -485,8 +485,8 @@ A curated list of resources about AI agents for Computer Use, including research
   - Integrated Browser Use and Computer Use
 
 - [Uni-CLI](https://github.com/olo-dot-io/Uni-CLI)
-  - Universal CLI hub connecting agents to 134 sites, desktop apps, and browser automation via 711 declarative YAML pipelines
-  - Stagehand-style `operate observe` verb, raw CDP (no extension), production MCP gateway, Karpathy-style self-repair loop, ~80 tokens per call
+  - Universal CLI hub connecting agents to 238 sites, desktop apps, and browser automation via 1,458 declarative commands
+  - Stagehand-style `operate observe` verb, raw CDP (no extension), production MCP gateway, structured error envelopes for self-repair; per-call token budget in [`docs/BENCHMARK.md`](https://github.com/olo-dot-io/Uni-CLI/blob/main/docs/BENCHMARK.md)
 
 <br/>
 </details>
